@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id carousel_item_container
+id imageView
+id list_item_image
+id recycler
+layout activity_image_view
+layout activity_main
+layout image_list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Carousel
+style Theme.Carousel
+xml backup_rules
+xml data_extraction_rules
